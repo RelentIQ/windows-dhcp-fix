@@ -23,7 +23,7 @@ echo.
 echo  =====================================================
 echo   DHCP Fix Tool - Revive My Device
 echo   Automatically fixes internet connection broken
-echo   by a Windows update (February 2026 / KB5077181)
+echo   by a Windows update (KB5077181 / KB5079473)
 echo  =====================================================
 echo.
 

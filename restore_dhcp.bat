@@ -6,7 +6,7 @@ title Restore Automatic IP - Revive My Device
 :: DHCP Restore Script - Switch back to Automatic IP
 :: Created by Revive My Device | 020 8050 9779
 :: Run this once Microsoft releases a fix for the Windows
-:: update issue (KB5077181) and your internet works normally
+:: update issue (KB5077181 / KB5079473) and your internet works normally
 :: ============================================================
 
 :: Must run as Administrator
